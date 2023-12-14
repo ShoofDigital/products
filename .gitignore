@@ -5,7 +5,7 @@ src
 
 #config files
 .htaccess
-bablel.config.js
+babel.config.js
 jsconfig.json
 package-lock.json
 package.json
