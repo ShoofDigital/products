@@ -12,6 +12,7 @@ package.json
 README.md
 sample.json
 vue.config.js
+*.md
 
 # local env files
 .env.local
