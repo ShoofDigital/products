@@ -1,6 +1,17 @@
 .DS_Store
 node_modules
+public
+src
 
+#config files
+.htaccess
+bablel.config.js
+jsconfig.json
+package-lock.json
+package.json
+README.md
+sample.json
+vue.config.js
 
 # local env files
 .env.local
